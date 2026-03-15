@@ -51,8 +51,8 @@ int main() {
 				if (arr[i] > max) {
 					max = arr[i];
 				}
-				printf("%d\n", max);
 			}
+            printf("%d\n", max);
 			break;
 
 		case 5:
